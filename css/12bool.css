@@ -23,7 +23,7 @@
 }
 
 .container{
-  max-width: 1170px;
+  max-width: 70%;
   margin: 0 auto;
 }
 
@@ -41,76 +41,76 @@
 }
 
 /* colums large screen*/
-.col-lg-1{
+.col-xl-1{
   width: calc((100% / 12) * 1);
 }
-.col-lg-2{
+.col-xl-2{
   width: calc((100% / 12) * 2);
 }
-.col-lg-3{
+.col-xl-3{
   width: calc((100% / 12) * 3);
 }
-.col-lg-4{
+.col-xl-4{
   width: calc((100% / 12) * 4);
 }
-.col-lg-5{
+.col-xl-5{
   width: calc((100% / 12) * 5);
 }
-.col-lg-6{
+.col-xl-6{
   width: 50%;
 }
-.col-lg-7{
+.col-xl-7{
   width: calc((100% / 12) * 7);
 }
-.col-lg-8{
+.col-xl-8{
   width: calc((100% / 12) * 8);
 }
-.col-lg-9{
+.col-xl-9{
   width: calc((100% / 12) * 9);
 }
-.col-lg-10{
+.col-xl-10{
   width: calc((100% / 12) * 10);
 }
-.col-lg-11{
+.col-xl-11{
   width: calc((100% / 12) * 11);
 }
-.col-lg-12{
+.col-xl-12{
   width: 100%;
 }
 /* /colums large screen*/
 
 /* offsets large screen*/
-.col-offsets-lg-1{
+.col-offsets-xl-1{
   margin-left: calc((100% / 12) * 1);
 }
-.col-offsets-lg-2{
+.col-offsets-xl-2{
   margin-left: calc((100% / 12) * 2);
 }
-.col-offsets-lg-3{
+.col-offsets-xl-3{
   margin-left: calc((100% / 12) * 3);
 }
-.col-offsets-lg-4{
+.col-offsets-xl-4{
   margin-left: calc((100% / 12) * 4);
 }
-.col-offsets-lg-5{
+.col-offsets-xl-5{
   margin-left: calc((100% / 12) * 5);
 }
-.col-offsets-lg-6{
+.col-offsets-xl-6{
   margin-left: calc((100% / 12) * 6);
 }
-.col-offsets-lg-7{
+.col-offsets-xl-7{
   margin-left: calc((100% / 12) * 7);
 }
-.col-offsets-lg-8{
+.col-offsets-xl-8{
   margin-left: calc((100% / 12) * 8);
 }
-.col-offsets-lg-9{
+.col-offsets-xl-9{
   margin-left: calc((100% / 12) * 9);
 }
-.col-offsets-lg-10{
+.col-offsets-xl-10{
   margin-left: calc((100% / 12) * 10);
 }
-.col-offsets-lg-11{
+.col-offsets-xl-11{
   margin-left: calc((100% / 12) * 11);
 }
 /* /offsets large screen*/
